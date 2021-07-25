@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+span{
+    font-family: 'Roboto','sans-serif';
+    font-size: 16px;
+    font-weight: 500;
+}
+
+nav{
+    width: 100% !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    height: 83px;
+    background-color: rgb(40,40,40);
+    color: white;
+    font-size: 20px;
+    font-family: 'Potta One';
+    display: flex;
+    margin: auto;
+}
+
+.copy-to-clipboard-button{
+    color: white !important;
+    width: 98%;
+    font-size: 12px !important;
+}
+
+.copy-to-cipboard-button:hover{
+    color: white  !important;
+}
